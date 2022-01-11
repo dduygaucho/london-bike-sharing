@@ -28,8 +28,9 @@ After conducting feature engineering, some major trends are noted:
 ## Stage 3: Data modelling using Bidirectional LSTM
 
 Train the model with a timestep of 10 hours, which yields a mse of 0.035 on the test set
-
+  <br/>
 ![alt text](https://github.com/dduygaucho/london-bike-sharing/blob/main/Prediction.jpg?raw=true)
+
  
   
 
