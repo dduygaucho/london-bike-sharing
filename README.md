@@ -7,5 +7,8 @@ This project was done as a personal project
 [Click here to view the Notebook](https://github.com/dduygaucho/london-bike-sharing/blob/main/London_bike_sharing.ipynb)
 
 
+![alt text](https://github.com/dduygaucho/london-bike-sharing/blob/main/cycling.jpg?raw=true)
+
+
 
 
